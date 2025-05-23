@@ -1,0 +1,23 @@
+[
+    {
+        "title": "Meri Kahani",
+        "author": "muqaddas",
+        "year": "2025",
+        "genre": "kahani",
+        "read": true
+    },
+    {
+        "title": "meri behan",
+        "author": "muqaddas",
+        "year": "2025",
+        "genre": "poetry",
+        "read": true
+    },
+    {
+        "title": "janat kay patay",
+        "author": "muqaddas",
+        "year": "2021",
+        "genre": "story",
+        "read": true
+    }
+]
