@@ -2,6 +2,28 @@
 
 Welcome to the **All Python Projects** repository by **syeda-muqaddas**! This repository houses multiple Python-based projects, each designed to demonstrate various functionalities and problem-solving approaches.
 
+### - **Password Strength Meter 🔒**
+- 📂 Full Path:
+https://github.com/syeda-muqaddas/all-python-project/tree/main/password_strength_meter_project
+- 🌐 Live App:
+https://passwordstrenthmeter-gfkujdior678564.streamlit.app/
+
+### - **Unit Converter 🔄**
+- 📂 Full Path: https://github.com/syeda-muqaddas/all-python-project/tree/main/unit%20converter/unit-converter
+- 🌐 Live App:  https://unit-converter-ejzjegcud4chv6fa8dakkt.streamlit.app/
+
+### - **Growth Mindset 🌱**
+- 📂 Full Path:
+https://github.com/syeda-muqaddas/all-python-project/tree/main/growth_mindset
+- 🌐 Live App:
+https://gjgdfgmkl668growthmindsetbook.streamlit.app/
+
+### - **Personal Library Manager 📖**
+- 📂 Full Path:
+ https://github.com/syeda-muqaddas/all-python-project/tree/main/Personal_Library_Manager
+
+- "Each project is designed with unique functionalities and is accessible via the specified paths and live URLs".🚀
+
 ## 📂 Project Structure
 
 ### 1. **Personal Library Manager 📖**
